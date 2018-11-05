@@ -1,0 +1,8 @@
+.track:hover {
+  background-color: #757474;
+  cursor: pointer;
+}
+
+.selected {
+  color: orange;
+}
