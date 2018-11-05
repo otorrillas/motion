@@ -1,0 +1,22 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Last Energy For The Day",
+      "artist": "Loyalty Freak Music ",
+      "album": "Roller Disco Dance"
+    },
+    {
+      "id": 2,
+      "title": "Good Bye",
+      "artist": "Dee Yan-Key",
+      "album": "years and years ago"
+    },
+    {
+      "id": 3,
+      "title": "Happy Ending",
+      "artist": "Scott Holmes",
+      "album": "Happy Music"
+    }
+  ]
+}

@@ -1,3 +1,11 @@
+# Motion
+
+A music player built with `React.Suspense` experimental API.
+
+---
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
