@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{37:function(a){a.exports={tracks:[{id:1,title:"Last Energy For The Day",artist:"Loyalty Freak Music ",album:"Roller Disco Dance"},{id:2,title:"Good Bye",artist:"Dee Yan-Key",album:"years and years ago"},{id:3,title:"Happy Ending",artist:"Scott Holmes",album:"Happy Music"}]}}}]);
+//# sourceMappingURL=1.b30a7843.chunk.js.map
