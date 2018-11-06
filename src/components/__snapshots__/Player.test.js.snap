@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Player /> @render default 1`] = `
+<audio
+  autoPlay={true}
+  className="player"
+  controls={true}
+  src="tracks/123.mp3"
+/>
+`;
