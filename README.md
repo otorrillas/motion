@@ -1,5 +1,7 @@
 # Motion
 
+[![Build Status](https://travis-ci.com/otorrillas/motion.svg?branch=master)](https://travis-ci.com/otorrillas/motion)
+
 A music player built with `React.Suspense` experimental API.
 
 ---
