@@ -2,6 +2,7 @@
   "name": "motion",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://otorrillas.me/motion/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
