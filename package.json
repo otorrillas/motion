@@ -4,8 +4,12 @@
   "private": true,
   "homepage": "https://otorrillas.me/motion/",
   "dependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.8",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "classnames": "^2.2.6",
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
@@ -22,5 +26,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-test-renderer": "^16.6.0"
+  }
 }

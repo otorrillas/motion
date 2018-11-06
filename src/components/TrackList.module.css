@@ -1,0 +1,20 @@
+.trackList {
+  padding: 0 3rem;
+  width: 90%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.trackList tbody tr {
+  border-top: 1px white solid;
+  border-bottom: 1px white solid;
+}
+
+.trackList tr:last-child {
+  border-bottom: none;
+}
+
+.trackList td {
+  padding: 0.5rem 0;
+}
